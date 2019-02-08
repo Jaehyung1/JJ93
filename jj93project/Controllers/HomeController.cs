@@ -19,6 +19,7 @@ namespace jj93project.Controllers
         {
             ViewData["Message"] = "Your application description page.";
             ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Your application description page."; test
             return View();
         }
 
